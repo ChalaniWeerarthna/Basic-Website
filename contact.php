@@ -2,11 +2,30 @@
 
     <main>
         <article>
-            <h1>Contact</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum deleniti dicta delectus. Expedita nulla velit explicabo laborum distinctio illo porro maxime, voluptatum necessitatibus ratione excepturi dolorum ipsum possimus, sequi vero!</p>
-            <p>Hic maiores quaerat sunt, iste magnam consequatur. Vel excepturi officia quam officiis laboriosam! Facere fuga natus quod molestias impedit quibusdam suscipit, assumenda libero consequatur enim culpa harum, earum veniam neque!</p>
-            <p>Ullam architecto temporibus, quasi quibusdam maiores fugit perspiciatis ducimus inventore id. Culpa, eveniet minus, nulla odio dolor aspernatur error sapiente optio porro enim odit iure! Molestias exercitationem sapiente aliquid consectetur.</p>
-            
+            <title>Contact</title>
+            <div class="contact-banner">
+                <div class="contact-banner-body">
+                    <h1 style="font-size: 50px; text-align:left">Get in Touch with Us</h1>
+                </div>
+            </div>
+
+            <div class="shaded">
+                <h2>We’re glad you can get in touch with us!</h2>
+                <div class="form-style">
+                        <h1>Contact Us</h1>
+                        <form>
+                        <input type="text" name="name" placeholder="Your Name" />
+                        <input type="email" name="email" placeholder="Email Address" />
+                        <textarea name="message" placeholder="Type your Message"></textarea>
+                        <input type="submit" value="Send" />
+                        </form>
+                        </div>
+            </div>
+
+            <div class="transparent">
+                <h2>Follow us on</h2>
+            </div>
+                
         </article>
     </main>
 

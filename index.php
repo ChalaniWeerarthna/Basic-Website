@@ -28,8 +28,8 @@
         <div class="inner">
           <h3 class="masthead-brand">Cover Page</h3>
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link active" href="about.html">About</a>
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link active" href="about.php">About</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </nav>
         </div>
       </header>
