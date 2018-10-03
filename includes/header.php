@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>PHP CODE PLAYGROUND</title>
     
     <!-- Bootstrap 4 main style -->
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -45,10 +44,10 @@
         <div class="collapse navbar-collapse" id="collapsibleNavId">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="<?php echo "$about_url";?>">
-                    <a class="nav-link" href="about.php"><h5>About</h5><span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="about.html"><h5>About</h5><span class="sr-only">(current)</span></a>
                 </li>
                 <li class="<?php echo $contact_url?>">
-                    <a class="nav-link" href="contact.php"><h5>Contact</h5></a>
+                    <a class="nav-link" href="contact.html"><h5>Contact</h5></a>
                 </li>
         </div>
     </nav>
