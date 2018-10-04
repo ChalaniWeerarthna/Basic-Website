@@ -46,7 +46,8 @@ After completeing each individual part, give a **pull-request** and, your design
 
 ## Authors
 
-* **Ganindu Dhananja** - *Main work* - [Luk3Sky](https://github.com/luk3Sky)
+* **Ganindu Dhananja** - *Main Frame* - [Luk3Sky](https://github.com/luk3Sky)
+* **Chamin Jayasooriya** - *Styling ,Content adding, etc.* - [chamin96](https://github.com/chamin96)
 
 See also the list of [contributors](https://github.com/team-foxploit/Foxploit-Website/graphs/contributors) who participated in this project.
 
