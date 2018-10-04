@@ -35,8 +35,8 @@
 <body>
 
     <!-- Start navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-        <a class="navbar-brand" href="index.html"><h2>LOGO</h2></a>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+        <a class="navbar-brand" href="index.php"><h2>LOGO</h2></a>
         <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
             aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -44,10 +44,10 @@
         <div class="collapse navbar-collapse" id="collapsibleNavId">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="<?php echo "$about_url";?>">
-                    <a class="nav-link" href="about.html"><h5>About</h5><span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="about.php"><h5>About</h5><span class="sr-only">(current)</span></a>
                 </li>
                 <li class="<?php echo $contact_url?>">
-                    <a class="nav-link" href="contact.html"><h5>Contact</h5></a>
+                    <a class="nav-link" href="contact.php"><h5>Contact</h5></a>
                 </li>
         </div>
     </nav>
