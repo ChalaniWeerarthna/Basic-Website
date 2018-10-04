@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Font Awesome Style -->
     <link rel="stylesheet" href="css/font-awesome.css">
+    <!-- Icon font-mfizz Style -->
+    <link rel="stylesheet" href="css/font-mfizz/font-mfizz.css">
     <!-- Jquery script -->
     <script src="js/jquery.min.js"></script>
     <!-- Bootstrap script -->
@@ -36,6 +38,8 @@
 
       <main role="main" class="inner cover">
         <h1 class="cover-heading">Team Foxploit</h1>
+        <h1><i class="fa fa-code"></i></h1>
+        <h1>  <i class="fa fa-android"></i>  <i class="icon-css3-alt"></i>  <i class="icon-html5-alt"></i><i class="icon-angular"></i>  <i class="icon-bootstrap"></i>  <i class="icon-c"></i>  <i class="icon-cplusplus"></i>  <i class="icon-csharp"></i>  <i class="icon-java-bold"></i>  <i class="icon-javascript-alt"></i>  <i class="icon-nodejs"></i></h1>
         <p class="lead">A short and sweet description about the team with huge tech words.... :-)</p>
         <p class="lead">
           <a href="#" class="btn btn-lg btn-secondary">Discover</a>
